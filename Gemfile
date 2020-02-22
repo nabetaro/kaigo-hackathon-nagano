@@ -10,6 +10,8 @@ gem 'mysql2', '>= 0.4.4'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 
+gem 'rake'
+
 gem 'slim'
 
 # Use SCSS for stylesheets
