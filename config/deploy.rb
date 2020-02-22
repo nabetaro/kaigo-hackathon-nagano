@@ -4,6 +4,9 @@ lock "~> 3.11.2"
 set :application, 'kaigo'
 set :repo_url, "git@github.com:nabetaro/kaigonagano-server.git"
 
+set :rbenv_type, :system
+set :rbenv_ruby, '2.6.5'
+
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
