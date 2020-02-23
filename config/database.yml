@@ -49,6 +49,6 @@ test:
 #
 production:
   <<: *default
-  database: kaigonagano_server_production
-  username: kaigonagano_server
+  database: kaigodb_dev
+  username: kaigone_dev
   password: <%= ENV['KAIGONAGANO_SERVER_DATABASE_PASSWORD'] %>
