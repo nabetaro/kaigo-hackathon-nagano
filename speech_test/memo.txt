@@ -1,0 +1,10 @@
+ブラウザで音声操作をする。（Speech Recognition API）
+https://qiita.com/PonDad/items/4ca433ad03efbf7499a2
+
+Web Speech APIで途切れない音声認識
+https://jellyware.jp/kurage/iot/webspeechapi.html
+
+webkitSpeechRecgnitionを扱う
+(おまけ - audioデータも取得する)
+https://qiita.com/progfay/items/e1865ae41006c6a6b17b
+
